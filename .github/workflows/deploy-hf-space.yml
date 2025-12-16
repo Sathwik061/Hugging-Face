@@ -31,7 +31,7 @@ jobs:
           # 🔴 CHANGE THIS to your real Hugging Face Space id
           #   format: "<hf-username>/<space-name>"
           #   example: "ANANDA89/dt_hf_deploy"
-          repo_id = "sathwik061/Live_virtuals
+          repo_id ="sathwik061/Live_virtuals
 
           api = HfApi()
 
